@@ -1,0 +1,3 @@
+npx babel script.js --out-file script-compiled.js
+
+需要全局或者文件夹安装babel-cli

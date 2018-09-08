@@ -1,0 +1,12 @@
+{
+  "presets": [
+    ["env", {
+      "modules": false,
+      "targets": {
+        // "browsers": ["chrome 63","FireFox 56"]
+        "browsers": ["> 1%"]
+      }
+    }],
+    "stage-2"
+  ]
+}
